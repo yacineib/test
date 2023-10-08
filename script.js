@@ -1,3 +1,3 @@
 let b = 20;
-
-console.log(b);
+let a = 10;
+console.log(a+b);
