@@ -1,0 +1,7 @@
+﻿.element{
+    width: 30%;
+    min-height: 20vh;
+    padding: 1vh 2vh;
+    margin : 2vh 2vh; 
+    border: 1px solid gray;
+}
